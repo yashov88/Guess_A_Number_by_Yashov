@@ -1,4 +1,5 @@
 # Guess_A_Number_by_Yashov
+This is a simple console game "Guess a Number".
 
 · Project title (should answer the question "What's inside this project)
 
